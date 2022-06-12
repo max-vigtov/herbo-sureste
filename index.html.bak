@@ -1,0 +1,1116 @@
+<!DOCTYPE html>
+<!--
+	Salient by TEMPLATE STOCK
+	templatestock.co @templatestock
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HERBOLARIA DEL SURESTE</title>
+
+  <!-- Custom Google fonts -->
+	
+  
+
+  <!-- Bootstrap CSS Style -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+
+  <!-- Template CSS Style -->
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <!-- Animate CSS  -->
+  <link rel="stylesheet" href="assets/css/animate.css">
+
+  <!-- FontAwesome 4.3.0 Icons  -->
+  <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+
+  <!-- et line font  -->
+  <link rel="stylesheet" href="assets/css/et-line-font/style.css">
+
+  <!-- BXslider CSS  -->
+  <link rel="stylesheet" href="assets/css/bxslider/jquery.bxslider.css">
+
+  <!-- Owl Carousel CSS Style -->
+  <link rel="stylesheet" href="assets/css/owl-carousel/owl.carousel.css">
+  <link rel="stylesheet" href="assets/css/owl-carousel/owl.theme.css">
+  <link rel="stylesheet" href="assets/css/owl-carousel/owl.transitions.css">
+
+  <!-- Magnific-Popup CSS Style -->
+  <link rel="stylesheet" href="assets/css/magnific-popup/magnific-popup.css">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+	
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>	<script src="https://www.youtube.com/iframe_api"></script>
+
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<!--script type="text/javascript" src="engine1/jquery.js"></script-->	<script src="https://www.youtube.com/iframe_api"></script>
+
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine2/style.css" />
+	<!--script type="text/javascript" src="engine2/jquery.js"></script-->	<script src="https://www.youtube.com/iframe_api"></script>
+
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine3/style.css" />
+	<!--script type="text/javascript" src="engine3/jquery.js"></script-->	<script src="https://www.youtube.com/iframe_api"></script>
+
+	<!-- End WOWSlider.com HEAD section --></head>
+<body>
+
+  <!-- Preload the Whole Page -->
+  <div id="preloader">      
+    <div id="loading-animation">&nbsp;</div>
+  </div>
+
+  <!-- Navbar -->
+  <header class="header">
+    <nav class="navbar navbar-default navbar-static-top">
+      <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation-nav">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+           <a class="navbar-brand" href="1a06b9a4_50aa_4581_94d6_7664fd9395cc_by_kaidevas_df33qm2.png"></a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <a href="logo.png"></a>
+        <div class="collapse navbar-collapse" id="navigation-nav"><img src="herbolaria logo .png" alt="" width="80" height="80" class="img-circle"/>
+<ul class="nav navbar-nav navbar-right">
+          <li class="active"><a class="section-scroll" href="#wrapper">INICIO</a></li>
+            <li><a href="#landing-offer">SOBRE NOSOTROS</a></li>
+            <li><a href="#features-section">PRODUCTO</a></li>
+            <li><a href="#team-section">MISIóN Y VISIóN</a></li>
+            <li><a href="#screenshots-section">COLABORADORES</a></li>
+            <li><a href="#prices-section">comprar</a></li>
+            <li><a href="#contact-section">ContactO</a></li>
+          </ul>
+        </div>
+<!-- /.navbar-collapse -->
+      </div><!-- /.container -->
+    </nav>
+  </header>
+  <!-- End Navbar -->
+
+  <div id="wrapper">
+
+  <!-- Hero
+  ================================================== -->
+    <section>
+      <div id="hero-section" class="landing-hero" data-stellar-background-ratio="0">
+        <div class="hero-content">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+
+                <div class="hero-text">
+                  <div class="herolider">
+                    <ul class="caption-slides">
+
+                      <li class="caption"><a href="logo.png"></a>
+                        <h1> ROSALV</h1>
+                        <div class="div-line"></div>
+                        <p class="hero">Si tus heridas quieres aliviar ¡Usa RosAlv! </p>
+                      </li>
+                      
+                      <li class="caption">
+                        <h1></h1>
+                        <div class="div-line"></div>
+                        <p class="hero">Herbolaria del Sureste </p>
+                      </li>
+
+                      <li class="caption">
+                        <h1>RosAlv</h1>
+                        
+                        <div class="div-line"></div>
+                        <p class="hero">Si tus heridas quieres aliviar ¡Usa RosAlv! </p>
+                      </li>
+
+                    </ul>
+                  </div> <!-- end herolider -->
+                </div> <!-- end hero-text -->
+
+                <div class="hero-btn">
+                  <a href="#landing-offer" class="btn btn-clean">Leer màs</a>
+                </div> <!-- end hero-btn -->
+
+              </div> <!-- end col-md-6 -->
+            </div> <!-- end row -->
+          </div> <!-- End container -->
+        </div> <!-- End hero-content -->
+      </div> <!-- End hero-section -->
+    </section>
+    <!-- End hero section -->
+
+    <!-- Offer
+    ================================================== -->
+    <section>
+      <div id="landing-offer" class="pad-sec">
+        <div class="container">
+
+          <div class="title-section big-title-sec animated out" data-animation="fadeInUp" data-delay="0">
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                <h2 class="big-title">SOBRE NOSOTROS</h2>
+                <h1 class="big-subtitle">¿Quiénes somos? </h1>
+                <hr>
+                <p class="about-text"><strong>Somos una empresa líder en venta de unguento de maguey y pionera en productos naturistas.100% mexicana y orgullosos del producto en venta, compartiendo momentos satisfactorios y llenos de indulgencia natural. Siempre en la tarea de llevar productos de calidad para complementar el bien estar de nuestra comunidad.</strong></p>
+              </div>
+            </div> <!-- End row -->
+          </div> <!-- end title-section -->
+
+          <div class="offer-boxes">
+
+            <div class="row">
+            <div class="col-sm-4">
+              <div class="offer-post text-center animated out" data-animation="fadeInLeft" data-delay="0">
+                <img src="naturalista.jpg" alt="" width="126" height="200"/>
+                <div class="offer-icon"> </div>
+                <h4>Empresa Naturista</h4>
+                
+              </div> <!-- End offer-post -->
+            </div> <!-- End col-sm-4 -->
+
+            <div class="col-sm-4">
+              <div class="offer-post text-center animated out" data-animation="fadeInUp" data-delay="0">
+                <img src="100%.png" alt="" width="196" height="200"/>
+                <div class="offer-icon"> </div>
+                <h4>100% Mexicana</h4>
+                
+              </div> <!-- End offer-post -->
+            </div> <!-- End col-sm-4 -->
+
+            <div class="col-sm-4">
+              <div class="offer-post text-center animated out" data-animation="fadeInRight" data-delay="0">
+                
+                <h4><img src="crueltry free.png" alt=""/></h4>
+                <p>Libre de crueldad animal</p>
+              </div> <!-- End offer-post -->
+            </div> <!-- End col-sm-4 -->
+
+            </div> <!-- End row -->
+
+          </div> <!-- End offer-boxes -->
+        </div> <!-- End container -->
+      </div> <!-- End landing-offer-section -->
+    </section>
+    <!-- End offer section -->
+
+    <section>
+      <div class="sep-section"></div>
+    </section>
+
+    <!-- Features services
+    ================================================== -->
+    <section>
+<div id="features-section" class="pad-sec">
+      <div class="container">
+          <div class="title-section text-center animated out" data-animation="fadeInUp" data-delay="0">
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                <h2>historia</h2>
+                <hr>
+                <p><strong>Este proyecto surge en cuarto semestre de preparatoria, ya que un grupo de estudiantes realizaron una investigación sobre las propiedades que tiene la planta de maguey, al igual hay estudios científicos que avalan estas propiedades que sirven para aliviar hematomas y heridas cutáneas; agregandole que en el estado de Tabasco es una zona donde se cultivan estas plantas, por lo que surgió este proyecto de negocio.</strong></p>
+              </div> <!-- edn col-sm-8 -->
+            </div> <!-- End row -->
+          </div> <!-- end title-section -->
+          <div class="row">
+            <div class="col-md-3 without-padding">
+              <div class="left-features-services">
+                <ul class="features-list">
+                  <!-- feature -->
+                  <li>
+                    <div class="left-features-box animated out" data-animation="fadeInLeft" data-delay="0"> <span class="iconbox"><img src="antiseptico.jpg" alt="" width="86" height="86"/></span>
+                      <div class="features-box-content">
+                        <h6><em><strong>ANTISÈPTICO</strong></em></h6>
+                        <p class="text-lowercase"><strong>Capaz de eliminar de los microorganismos y de evitar su reprodución</strong></p>
+                      </div> <!-- end features-box-content -->
+                    </div> <!-- end left-features-box -->
+                  </li>
+                  <!-- feature -->
+                  <li>
+                    <div class="left-features-box animated out" data-animation="fadeInLeft" data-delay="0"> <span class="iconbox"><img src="antiflamatorio.jpg" alt="" width="82" height="80"/></span>
+                      <div class="features-box-content">
+                        <h6><em><strong>DESINFLAMATORIO</strong></em></h6>
+                        <p><strong>Reduce la inflamación, el enrojecimiento y el dolor en la zona aplicada.</strong></p>
+                      </div> <!-- end features-box-content -->
+                    </div> <!-- end left-features-box -->
+                  </li>
+                  <!-- feature -->
+                  <li>
+                    <div class="left-features-box animated out" data-animation="fadeInLeft" data-delay="0"> <span class="iconbox"><img src="cura.png" alt="" width="80" height="46" class="img-circle"/></span>
+                      <div class="features-box-content">
+                        <h6><em><strong>CICATRIZANTE</strong></em></h6>
+                        <p><strong>Acelera la regeneración de la piel en las heridas cutáneas.</strong></p>
+                      </div> <!-- end features-box-content -->
+                    </div> <!-- end left-features-box -->
+                  </li>
+                  <!-- feature -->
+                  <li>
+                    <div class="left-features-box animated out" data-animation="fadeInLeft" data-delay="0">
+                      <span class="iconbox"></span>
+                      <div class="features-box-content"> </div> <!-- end features-box-content -->
+                    </div> <!-- end left-features-box -->
+                  </li>
+                  <!-- feature -->
+                  <li>
+                    <div class="left-features-box animated out" data-animation="fadeInLeft" data-delay="0">
+<div class="features-box-content"> </div> <!-- end features-box-content -->
+                    </div> <!-- end left-features-box -->
+                  </li>
+                </ul> <!-- end features-list -->
+              </div> <!-- end left-features-service -->
+            </div><!--  end col-md-3 -->
+
+            <div class="col-md-6">
+              <div class="features-image animated out" data-animation="fadeInUp" data-delay="0">
+                <a href="planta maguey.jpg"><img src="planta maguey.jpg" alt="" class="img-circle"></a>
+              </div> <!-- end features-image -->
+            </div> <!-- end col-md-6 -->
+
+            <div class="col-md-3 without-padding">
+              <div class="right-features-services">
+                <ul class="features-list">
+                  <!-- feature -->
+                  <li>
+                    <div class="right-features-box animated out" data-animation="fadeInRight" data-delay="0"> <span class="iconbox"><img src="botella.png" alt="" width="96" height="100"/></span>
+                      <div class="features-box-content">
+                        <h6><strong><em>REFRESCA</em></strong></h6>
+                        <p><strong>Genera sensaciones de frescura y alivio en el cuerpo.</strong></p>
+                      </div>
+                    </div>
+                  </li>
+                  <!-- feature -->
+                  <li>
+                    <div class="right-features-box animated out" data-animation="fadeInRight" data-delay="0"> <span class="iconbox"><img src="alivio.png" alt="" width="81" height="80"/></span>
+                      <div class="features-box-content">
+                        <h6><em><strong>ESTéTICO</strong></em></h6>
+                        <p><strong>Hecho con el máximo cuidado y en un envase con diseño naturista y acorde a nuestro producto.</strong></p>
+                      </div>
+                    </div>
+                  </li>
+                  <!-- feature -->
+                  <li>
+                    <div class="right-features-box animated out" data-animation="fadeInRight" data-delay="0"> <span class="iconbox"><img src="natural.jpg" alt="" width="80" height="80"/></span>
+                      <div class="features-box-content">
+                        <h6><em><strong>NATURISTA</strong></em></h6>
+                        <p><strong>Hecho a base de productos 100% naturales.</strong></p>
+                      </div>
+                    </div>
+                  </li>
+                  <!-- feature -->
+                  <li>
+                    <div class="right-features-box animated out" data-animation="fadeInRight" data-delay="0">
+                      <span class="iconbox"></span>                    </div>
+                  </li>
+                  <!-- feature -->
+                  <li>
+                    <div class="right-features-box animated out" data-animation="fadeInRight" data-delay="0">
+                      <span class="iconbox"></span>
+                      <div class="features-box-content"> </div>
+                    </div>
+                  </li>
+                </ul> <!-- end features-list -->
+              </div>
+            </div> <!-- end col-md-3 -->
+
+          </div> <!-- end row -->
+        </div> <!-- end container -->
+      </div>
+    </section>
+    <!-- End features-section -->
+
+    <!-- Video section
+    ================================================== -->
+    <section>
+      <div id="video-section" data-stellar-background-ratio="0">
+        <div class="container">
+<div class="row">
+        <div class="col-sm-6 col-sm-offset-3 col-lg-offset-0 col-lg-12"><table width="800" border="0" cellpadding="10">
+  <tbody>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=VLNVIuzoVrg"><img src="comercial 1.jpeg" alt="" class="img-responsive img-rounded"></a></td>
+      <td>&nbsp;</td>
+      <td><a href="https://www.youtube.com/watch?v=SxvWEuKVVHg"><img src="comercial 2.jpeg" alt="" class="img-responsive img-rounded"></a></td>
+      <td>&nbsp;</td>
+      <td><a href="https://youtu.be/M9kxdvAvGJA"><img src="comercial 3.jpeg" alt="" class="img-responsive img-rounded"></a></td>
+    </tr>
+  </tbody>
+</table>
+ </div> <!-- end col-sm-6 -->
+          </div>
+          <div class="row">
+            <div class="col-lg-6">&nbsp;</div>
+            <div class="col-lg-6"> Da click en las imágenes para reproducir los comerciales </div>
+          </div> 
+          <!-- end row -->
+        </div> <!-- end container -->
+      </div>
+    </section>
+    <!-- End Video section -->
+
+    <!-- Team
+    ================================================== -->
+    <section>
+      <div id="team-section" class="pad-sec">
+        <div class="container">
+          <div class="title-section animated out" data-animation="fadeInUp" data-delay="0">
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                <h2>misión y visión</h2>
+                <hr>
+                <p><em style="font-size: xx-large;">Misión</em><strong>: </strong><strong> Somos una empresa fabricante de productos herbolarios de calidad, brindandole a nuestros clientes productos que mejoran su calidad de vida. </strong></p>
+                <p><em>Visión</em><strong>: </strong><strong>Ser la empresa número uno en producción y comercialización de productos herbolarios del país.</strong></p>
+                <p>                  
+              </div>
+            </div> <!-- End row -->
+          </div> <!-- end title-section -->
+
+          <div class="team-members">
+            <div class="row">
+
+              <!-- member-team -->
+              <div class="col-sm-4">
+                <div class="member-team animated out" data-animation="fadeInLeft" data-delay="0">
+                 <img src="logo.png" alt=""/>
+<div class="magnifier">
+  <!-- End magnifier-inner -->
+</div> 
+                  <!-- End magnifier -->
+                </div> <!-- End member-team -->
+              </div> <!-- End col-sm-4 -->
+
+              <!-- member-team -->
+              <div class="col-sm-4">
+                <div class="member-team animated out" data-animation="fadeInUp" data-delay="0">
+                  
+                  <a href="WhatsApp Image 2022-05-31 at 10.39.33 AM.jpeg"><img src="foto diseño .jpeg" alt="" class="img-circle img-responsive"/></a>
+                  <div class="magnifier"> <!-- End magnifier-inner -->
+                  </div> <!-- End magnifier -->
+                </div> <!-- End member-team -->
+              </div> <!-- End col-sm-4 -->
+
+              <!-- member-team -->
+              <div class="col-sm-4">
+                <div class="member-team animated out" data-animation="fadeInRight" data-delay="0">
+                  <img src="1a06b9a4_50aa_4581_94d6_7664fd9395cc_by_kaidevas_df33qm2.png" alt=""/>
+                  <div class="magnifier">
+                    <div class="magnifier-inner">
+                      
+                      <ul class="social-icons">
+
+                        <li></li>
+
+                        
+
+                      </ul>
+                    </div> <!-- End magnifier-inner -->
+                  </div> <!-- End magnifier -->
+                </div> <!-- End member-team -->
+              </div> <!-- End col-sm-4 -->
+
+            </div>
+          </div> <!-- End team-members -->
+        </div> <!-- End container -->
+      </div> <!-- End team-section -->
+    </section>
+    <!-- End team section -->
+
+    <!-- About Team
+    ================================================== -->
+    <section>
+      <div id="about-team">
+        <div class="container">
+            <div class="row">
+
+              <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="title-section">
+                  
+                    </div>
+
+                  </div> <!-- end p-bar -->
+
+                </div> <!-- end skills-bars -->
+              </div> <!-- end col-md-6 -->
+            </div> <!-- end row -->
+        </div>
+      </div>
+    </section>
+    <!-- End About Team -->
+
+    <!-- Banner-Services
+    ================================================== -->
+    <section>
+      <div id="banner-services" data-stellar-background-ratio="0">
+        <div class="container">
+          <div class="row">
+
+            <div class="col-sm-6">
+              <div class="banner-content animated out" data-animation="fadeInUp" data-delay="0">
+                <h3 class="banner-heading">CONOZCAN A NUESTRO DUMMIE</h3>
+                <div class="banner-decription">
+                  Representa la forma de la mata del maguey y al símbolo del fuego, para hacer la representación de la quemadura, el fuego simboliza el dolor que se siente y el maguey que es el más importante.
+                </div> <!-- end banner-decription -->
+                
+              </div> <!-- end banner-content -->
+            </div> <!-- end col-sm-6 -->
+
+            <div class="col-sm-6">
+              <div class="banner-image animated out" data-animation="fadeInUp" data-delay="0">
+                <img src="assets/images/temp/banner-img.png" alt="">
+              </div> 
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VLNVIuzoVrg?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data1/images/vlnviuzovrg.png" alt="Comercial ROSALV" title="Comercial ROSALV" id="wows1_0"/></li>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/SxvWEuKVVHg?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data1/images/sxvweukvvhg.png" alt="jquery slideshow" title="COMERCIAL ROSALV" id="wows1_1"/></li>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/M9kxdvAvGJA?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data1/images/m9kxdvavgja.png" alt="comercial rosalv" title="comercial rosalv" id="wows1_2"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Comercial ROSALV"><span><img src="data1/tooltips/vlnviuzovrg.png" alt="Comercial ROSALV"/>1</span></a>
+		<a href="#" title="COMERCIAL ROSALV"><span><img src="data1/tooltips/sxvweukvvhg.png" alt="COMERCIAL ROSALV"/>2</span></a>
+		<a href="#" title="comercial rosalv"><span><img src="data1/tooltips/m9kxdvavgja.png" alt="comercial rosalv"/>3</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">css image gallery</a> by WOWSlider.com v9.0</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+	<!-- End WOWSlider.com BODY section --><!-- end banner-image -->
+            </div> <!-- end col-sm-6 -->
+            
+          </div> <!-- end row -->
+        </div> <!-- end container -->
+      </div>
+    </section>
+    <!-- End Banner services section -->
+
+    <!-- Features App 2
+    ================================================== -->
+    <section>
+      <div id="features-app-section-2" class="pad-sec">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-6 features-app-content-left animated out" data-animation="fadeInLeft" data-delay="0">
+              <div class="section_header">
+                <h2>Hecho a base de:</h2>
+				</div> 
+				
+                <ul class="features-app-list">
+
+                  <!-- feature -->
+                  <li>
+                    <div class="feature-app-box animated out" data-animation="fadeInLeft" data-delay="0">
+                      <div class="app-feature-icon pull-left"><span class="pe-7s-graph"></span></div>
+                      <div class="feature-app-box-content">
+                        <h6><em><strong>VASELINA</strong></em></h6>
+                        <p><strong>La vaselina es un derivado del petróleo con muchas cualidades beneficiosas y usos, como el de favorecer la hidratación de la piel y los labios. En la actualidad se usa en cosmética y en farmacia.</strong></p>
+                      </div>
+                    </div>
+                  </li>
+
+                  <!-- feature -->
+                  <li>
+                    <div class="feature-app-box animated out" data-animation="fadeInLeft" data-delay="0">
+                      <div class="app-feature-icon pull-left"><span class="pe-7s-config"></span></div>
+                      <div class="feature-app-box-content">
+                        <h6><em><strong>MAGUEY</strong></em></h6>
+                        <p><strong> Especie herbácea perteneciente a la familia de las commelináceas, que se utiliza para disminuir el dolor de estómago. También es antiséptica y desinflamatoria.</strong></p>
+                      </div>
+                    </div>
+                  </li>
+
+                  <!-- feature -->
+                  <li>
+                    <div class="feature-app-box animated out" data-animation="fadeInLeft" data-delay="0">
+                      <div class="app-feature-icon pull-left"><span class="pe-7s-refresh-2"></span></div>
+                      <div class="feature-app-box-content">
+                        <h6><em><strong>ACEITE ESENCIAL</strong></em></h6>
+                        <p><strong>El aceite de eucalipto es un aceite esencial que nos va a ayudar en procesos de catarros actuando como descongestionante y abriendo las vías respiratorias. También se usa como calmante y antinflamatorio rebajando el dolor muscular, y también como antiséptico.</strong></p>
+                      </div>
+                    </div>
+                  </li>
+
+                  <!-- feature -->
+                  <li>
+                    <div class="feature-app-box animated out" data-animation="fadeInLeft" data-delay="0">
+                      <div class="app-feature-icon pull-left"><span class="pe-7s-lock"></span></div>
+                      <div class="feature-app-box-content">
+                      
+                      </div>
+                    </div>
+                  </li>
+                  
+                </ul>
+            </div> <!-- End feature-content -->
+
+            <div class="col-sm-5 col-sm-offset-1 text-center img-app-right animated out" data-animation="fadeInRight" data-delay="0">
+              <figure>
+                <img src="WhatsApp Image 2022-06-10 at 6.31.44 PM.jpeg" alt="" class="img-rounded">
+              </figure>
+            </div> 
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container3">
+	<div class="ws_images"><ul>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VLNVIuzoVrg?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data3/images/vlnviuzovrg.png" alt="Comercial ROSALV" title="Comercial ROSALV" id="wows3_0"/></li>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/SxvWEuKVVHg?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data3/images/sxvweukvvhg.png" alt="bootstrap image slider" title="COMERCIAL ROSALV" id="wows3_1"/></li>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/M9kxdvAvGJA?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data3/images/m9kxdvavgja.png" alt="comercial rosalv" title="comercial rosalv" id="wows3_2"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Comercial ROSALV"><span><img src="data3/tooltips/vlnviuzovrg.png" alt="Comercial ROSALV"/>1</span></a>
+		<a href="#" title="COMERCIAL ROSALV"><span><img src="data3/tooltips/sxvweukvvhg.png" alt="COMERCIAL ROSALV"/>2</span></a>
+		<a href="#" title="comercial rosalv"><span><img src="data3/tooltips/m9kxdvavgja.png" alt="comercial rosalv"/>3</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">bootstrap slideshow</a> by WOWSlider.com v9.0</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine3/wowslider.js"></script>
+	<script type="text/javascript" src="engine3/script.js"></script>
+	<!-- End WOWSlider.com BODY section --><!-- End col-sm-8 -->
+
+          </div> <!-- End row -->
+        </div> <!-- End container -->
+      </div> <!-- End feature-section -->
+    </section>
+    <!-- End Features App 2 section -->
+
+    <section>
+      <div class="sep-section"></div>
+    </section>
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container2">
+	<div class="ws_images"><ul>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VLNVIuzoVrg?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data2/images/vlnviuzovrg.png" alt="Comercial ROSALV" title="Comercial ROSALV" id="wows2_0"/></li>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/SxvWEuKVVHg?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data2/images/sxvweukvvhg.png" alt="bootstrap slideshow" title="COMERCIAL ROSALV" id="wows2_1"/></li>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/M9kxdvAvGJA?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data2/images/m9kxdvavgja.png" alt="comercial rosalv" title="comercial rosalv" id="wows2_2"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Comercial ROSALV"><span><img src="data2/tooltips/vlnviuzovrg.png" alt="Comercial ROSALV"/>1</span></a>
+		<a href="#" title="COMERCIAL ROSALV"><span><img src="data2/tooltips/sxvweukvvhg.png" alt="COMERCIAL ROSALV"/>2</span></a>
+		<a href="#" title="comercial rosalv"><span><img src="data2/tooltips/m9kxdvavgja.png" alt="comercial rosalv"/>3</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">bootstrap slideshow</a> by WOWSlider.com v9.0</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine2/wowslider.js"></script>
+	<script type="text/javascript" src="engine2/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+
+    <!-- Creative section-1
+    ================================================== -->
+    <section>
+      <div id="creative-section-1" class="pad-sec">
+        <div class="container">
+          <div class="row">
+
+            <div class="col-sm-7 img-creative-left text-center animated out" data-animation="fadeInLeft" data-delay="0">
+              <figure>
+                <img src="assets/images/temp/cover.png" alt="">
+              </figure>
+            </div> <!-- End col-sm-8 -->
+
+            <div class="col-sm-5 creative-content-right animated out" data-animation="fadeInRight" data-delay="0">
+              <div class="section_header">
+                <h2>¡ESCANEA NUESTRO CÓDIGO QR!</h2> 
+              </div> <!-- End section_header -->
+
+                
+              <div class="view-more">
+                <a href="#services-section" class="btn btn-lg btn-primary">View online</a>
+              </div>
+            </div> <!-- End feature-content -->
+
+          </div> <!-- End row -->
+        </div> <!-- End container -->
+      </div> <!-- End feature-section -->
+    </section>
+    <!-- End Creative section-1 -->
+
+    <section>
+      <div class="sep-section"></div>
+    </section>
+
+    <!-- Screenshots
+    ================================================== -->
+      <section>
+        <div id="screenshots-section" class="pad-sec">
+          <div class="container">
+           <div class="title-section text-center animated out" data-animation="fadeInUp" data-delay="0">
+              <div class="row">
+                <div class="col-sm-8 col-sm-offset-2">
+                  <h2>COLABORADORES</h2>
+                  <hr>
+                  <p><strong>En este proyecto se unieron muchos colaboradores, sin ellos esta empresa no sería lo que es ahorita, cada departamento tiene varios colaboradores.</strong></p>
+                </div>
+            </div> <!-- End row -->
+          </div> <!-- end title-section -->
+
+            <div class="row">
+              <div class="col-md-12">
+                <div class="screenshots-carousel animated out" data-animation="fadeInUp" data-delay="0">
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="dpto.recursos.jpeg" alt=""/><img src= alt="screenshot"></a>
+                    </div> <!-- end screen -->
+                  </div> <!-- end shot -->
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="dpto.finanzas.jpeg" alt=""/><img src= alt="screenshot"></a>
+                    </div> 
+                    <!-- end screen -->
+                  </div> <!-- end shot -->
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="dpto.merca.jpeg" alt=""/><img src= alt="screenshot"></a>
+                    </div> <!-- end screen -->
+                  </div> <!-- end shot -->
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="dpto.prodccion.jpeg" alt=""/><img src= alt="screenshot"></a>
+                    </div> <!-- end screen -->
+                  </div> <!-- end shot -->
+
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="dpto.tec.jpeg" alt=""/><img src= alt="screenshot"/></a>
+                    </div> <!-- end screen -->
+                  </div> <!-- end shot -->
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="maestros produccion.jpeg" alt=""/><img src= alt="screenshot"/></a>
+                    </div> <!-- end screen -->
+                  </div> <!-- end shot -->
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="maestra ana.jpeg" alt=""/><img src= alt="screenshot"></a>
+                    </div> <!-- end screen -->
+                  </div> <!-- end shot -->
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="maestros merca.jpeg" alt=""/><img src= alt="screenshot"/></a>
+                    </div> <!-- end screen -->
+                  </div> <!-- end shot -->
+
+					<div class="shot">
+					<div class="screen">
+						<a class="zoom" href=""><img src="maestros finanzas.jpeg" alt=""/><img src=alt="screenshot"></img></a>
+						</div>
+				  </div>
+				  
+				  <div class="shot">
+					  <div class="screen">
+					  <a class="zoom" href=""><img src="carlos.jpeg" alt=""/><img src=alt="screenshot">
+						  </a>
+					  </div>
+					  
+					  <div class="shot">
+					  <div class="screen">
+						  <a class="zoom" href=""><img src="rene.jpeg" alt=""/><img src=alt="screenshot">
+						  </a>
+						  </div>
+					  </div>
+					  
+					  <div class="shot">
+					  <div class="screen">
+						  <a class="zoom" href=""><img src="maria.jpeg" alt=""/><img src=alt="screenshot">
+						  </a>
+						  </div>
+					  </div>
+                </div> <!-- end screenshots-carousel -->
+              </div> <!-- end col-md-12 -->
+            </div> <!-- end row -->
+          </div><!--  end container -->
+        </div>
+      </section>
+      <!-- End screenshots-section -->
+
+      <!-- Clients-section
+    ================================================== -->
+    <section>
+      <div id="clients-section" class="clients-bg" data-stellar-background-ratio="0">
+        <div class="container">
+          <div class="row">
+             
+             <!-- client -->
+            <div class="col-xs-4 col-sm-2">
+              <div class="client" >
+                <a href="#"><img src="icono-departamento-de-produccion.jpg" alt=""/></a>
+              </div>
+            </div> <!-- end col-xs-6 -->
+
+             <!-- client -->
+            <div class="col-xs-4 col-sm-2">
+              <div class="client">
+                <a href="#"><img src="produccion 4.jpeg" alt=""></a>
+              </div>
+            </div> <!-- end col-xs-6 -->
+
+             <!-- client -->
+            <div class="col-xs-4 col-sm-2">
+              <div class="client">
+                <a href="#"><img src="produccion 2.jpeg" alt=""/></a>
+              </div>
+            </div> <!-- end col-xs-6 -->
+
+             <!-- client -->
+            <div class="col-xs-4 col-sm-2">
+              <div class="client">
+                <a href="#"><img src="produccion 3.jpeg" alt=""></a>
+              </div>
+            </div> <!-- end col-xs-6 -->
+
+             <!-- client -->
+            <div class="col-xs-4 col-sm-2">
+              <div class="client">
+                <a href="#"><img src="client_1.jpeg" alt=""></a>
+              </div>
+            </div> <!-- end col-xs-6 -->
+
+             <!-- client -->
+            <div class="col-xs-4 col-sm-2">
+              <div class="client">
+                <a href="#"></a>
+              </div>
+            </div> <!-- end col-xs-6 -->
+
+          </div> <!-- End row -->
+        </div> <!-- End container -->
+      </div> 
+    </section>
+    <!-- End clients-section -->
+
+    <!-- Prices
+    ================================================== -->
+    <section>
+      <div id="prices-section" class="pad-sec">
+        <div class="container">
+          <div class="title-section text-center animated out" data-animation="fadeInUp" data-delay="0">
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                <h2>NUESTRO PRODUCTO</h2>
+                <hr>
+                <p></p>
+              </div>
+            </div> <!-- End row -->
+          </div> <!-- end title-section -->
+
+          <div class="row">
+            <div class="col-sm-4">
+              <ul class="price-table animated out" data-animation="fadeInLeft" data-delay="0">
+                <img src="WhatsApp Image 2022-06-10 at 6.34.43 PM.jpeg" alt=""/>
+                  <li class="title-price">
+                    <h3></h3>
+                  </li>
+                  <li class="price-box">
+                      <p class="price"><span class="currency"></p>
+                      <p class="months"></p>
+                  </li>
+                  
+              </ul>
+            </div> <!-- end col-sm-4 -->
+
+            <div class="col-sm-4">
+              <ul class="price-table animated out" data-animation="fadeInUp" data-delay="0">
+                  <li class="title-price">
+                    <h3>Precio por pieza</h3>
+                  </li>
+                  <li class="price-box">
+                      <p class="price"><span class="currency">$</span>149</p>
+                      <p class="months"></p>
+                  </li>
+                  <li><p>Económico</p></li>
+                  <li>
+                      <p>Accesible</p>
+                  </li>
+                  <li>
+                      <p>Funcional</p>
+                  </li>
+                  
+                  
+              </ul>
+            </div> <!-- end col-sm-4 -->
+
+            <div class="col-sm-4">
+              <ul class="price-table animated out" data-animation="fadeInRight" data-delay="0">
+                <img src="WhatsApp Image 2022-06-10 at 6.35.06 PM.jpeg" alt=""/>
+                  <li class="title-price">
+                    <h3></h3>
+                  </li>
+                  <li class="price-box">
+                      <p class="price"><span class="currency"></p>
+                      <p class="months"></p>
+                  </li>
+                  
+              </ul>
+            </div> 
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container0">
+	<div class="ws_images"><ul>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VLNVIuzoVrg?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data0/images/vlnviuzovrg.png" alt="Comercial ROSALV" title="Comercial ROSALV" id="wows0_0"/></li>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/SxvWEuKVVHg?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data0/images/sxvweukvvhg.png" alt="jquery image slider" title="COMERCIAL ROSALV" id="wows0_1"/></li>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/M9kxdvAvGJA?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data0/images/m9kxdvavgja.png" alt="comercial rosalv" title="comercial rosalv" id="wows0_2"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Comercial ROSALV"><span><img src="data0/tooltips/vlnviuzovrg.png" alt="Comercial ROSALV"/>1</span></a>
+		<a href="#" title="COMERCIAL ROSALV"><span><img src="data0/tooltips/sxvweukvvhg.png" alt="COMERCIAL ROSALV"/>2</span></a>
+		<a href="#" title="comercial rosalv"><span><img src="data0/tooltips/m9kxdvavgja.png" alt="comercial rosalv"/>3</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">css image gallery</a> by WOWSlider.com v9.0</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine0/wowslider.js"></script>
+	<script type="text/javascript" src="engine0/script.js"></script>
+	<!-- End WOWSlider.com BODY section --><!-- end col-sm-4 -->
+          </div> <!-- end row -->
+        </div> <!-- end container -->
+      </div>
+    </section>
+    <!-- End prices section -->
+
+    <!-- Subscribe-section
+    ================================================== -->
+    <section>
+      <div id="subscribe-section">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-6 col-sm-offset-3 col-xs-8 col-xs-offset-2">
+              <div class="newsletter-title text-center">
+                <h4>Suscribete y mantente informado con las nuevas noticias </h4>
+              </div> <!-- end newsletter-title -->
+              <form class="form-inline subscription-form mailchimp" id="subscribeform">
+                  <!-- Subscription messages -->
+                  <h5 class="subscription-success"></h5>
+                  <h5 class="subscription-error"></h5>
+                <!-- Email input -->
+                <div class="form-group newsletter-field">
+                  <input type="email" name="EMAIL" class="form-control" id="subscriber-email" placeholder="maria.perez@ejemplo.com">
+                </div>
+                <!-- Subscribe button -->
+                <button type="submit" id="subscribe-button" class="btn btn-sm btn-dark">Suscribirse</button>
+              </form>
+            </div> <!-- end col-sm-6 -->
+          </div> <!-- end row -->
+        </div> <!-- end container -->
+      </div> <!-- end subscribe-section -->
+    </section>
+    <!-- End subscribe section -->
+
+    <section>
+      <div class="sep-section"></div>
+    </section>
+
+      <!-- Testimonial
+      ================================================== -->      
+      <section>
+        <div id="testimonials-section">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
+
+                <div class="testimonials-carousel">
+
+                  <ul class="testimonials-slider">
+                    
+                    <!-- Testimonial -->
+                    <li>
+                      <img src="assets/images/temp/client-photo.jpg" alt="">
+                      <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculusultricies porta posuere.</p>
+                      <div class="testimonials-author"> ClasDesign - Front End Developer </div>
+                    </li>
+                    
+                    <!-- Testimonial -->
+                    <li>
+                      <img src="assets/images/temp/client-photo.jpg" alt="">
+                      <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculusultricies porta posuere <a href="#">http://goo.gl/1OhxkS</a>.</p>
+                      <div class="testimonials-author">John Doe -  Web Developer</div>
+                    </li>
+                    
+                    <!-- Testimonial -->
+                    <li>
+                      <img src="assets/images/temp/client-photo.jpg" alt="">
+                      <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculusultricies porta posuere. <a href="#">http://goo.gl/1OhxkS</a>.</p>
+                      <div class="testimonials-author">John Doe - Web Designer</div>
+                    </li>
+
+                  </ul>
+
+                  <div class="tc-arrows">
+                     <div class="tc-arrow-left"></div>
+                     <div class="tc-arrow-right"></div>
+                  </div> <!-- end tc-arrows -->
+                </div> <!-- end testimonials-carousel -->
+
+              </div> <!-- end col-md-8 -->
+            </div> <!-- end row -->
+          </div> <!-- end container -->
+        </div>
+      </section>
+      <!-- end testimonial section -->
+
+    <section>
+      <div class="sep-section"></div>
+    </section>
+
+    <!-- Google map
+    ================================================== -->
+    <section>
+      <div id="module-maps">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3795.613303869809!2d-92.96225638462512!3d17.95018129105258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edd73ecb596e59%3A0xc694f4c65b9e5e02!2sColegio%20Tabasco!5e0!3m2!1ses!2smx!4v1654978908718!5m2!1ses!2smx" width="2000" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+    </section>
+    <!-- End Google map -->
+
+    <!-- Contact-section
+    ================================================== -->
+    <section>
+      <div id="contact-section" class="pad-sec">
+
+        <div class="container">
+
+          <div class="title-section text-center animated out" data-animation="fadeInUp" data-delay="0">
+              <div class="row">
+                <div class="col-sm-8 col-sm-offset-2">
+                  <h2>SUGERENCIAS</h2>
+                  <hr>
+                  <p><strong>Si tienes alguna duda o requieres mas información o información mas específica puedes dejarnos tu mensaje aquí.</strong></p>
+                </div>
+            </div> <!-- End row -->
+          </div> <!-- end title-section -->
+
+          <div class="form-wrapper">
+            <div class="row">
+              <div class="col-md-8 col-md-offset-2">
+                
+                <!-- form fields -->
+                <form action="assets/php/contact.php.htm" method="post" name="contactform" id="contactform" class="animated out" data-animation="fadeInUp" data-delay="0">
+
+                  <fieldset>
+                    <div class="form-group">
+                      <input class="form-control br-b" type="text" name="Nombre completo" id="Nombre completo" placeholder="Nombre completo">
+                    </div>
+
+                    <div class="form-group">
+                      <input class="form-control br-b" type="Correo electronico" name="Correo electronico" id="Correo electronico" placeholder="Correo electronico">
+                    </div>
+
+                    <div class="form-group">
+                      <textarea class="form-control br-b" name="Mensaje" id="mensaje" placeholder="Mensaje..."></textarea>
+                    </div>
+                  </fieldset>
+                  
+                  <!-- submit button -->
+                  <div class="form-group">
+                    <input type="submit" name="submit" value="Enviar mensaje" id="submit" class="btn btn-sm btn-dark">
+                  </div>
+
+                  <div id="alert"></div>
+
+                </form>
+
+              </div> <!-- end col-md-8 -->
+            </div> <!-- end row -->
+          </div>  <!-- end form-wrapper -->
+
+        </div> <!-- end container -->
+
+      </div> <!-- End contact-section -->
+    </section>
+
+    <!-- Contact-info
+    ================================================== -->
+    <section>
+      <div class="contact-info">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-4"><a href="#"><em class="pe-7s-map-marker"></em>86153 Centro. TAB</a></div> <!-- End col-sm-4 -->
+            <div class="col-sm-4">
+            <a href="+52 9934021784"><i class="pe-7s-phone"></i>+52 9934021784</a>
+            </div>
+             <div class="col-sm-4">
+              <a href="herbolariadelsureste@hotmail.com"><i class="pe-7s-mail"></i>herbolariadelsureste@hotmail.com</a>
+             </div>
+          </div> <!-- End row -->
+        </div> <!-- End container -->
+      </div> <!-- End contact-info -->
+    </section>
+
+    <!-- Footer
+    ================================================== -->
+    <footer>
+      <div id="footer-section" class="text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-8 col-sm-offset-2">
+              <ul class="footer-social-links">
+                <li><a href="#">Facebook</a></li>
+                <li><a href="#">Twitter</a></li>
+                <li><a href="#">Dribbble</a></li>
+                <li><a href="#">Behance</a></li>
+                <li><a href="#">Pinterest</a></li>
+              </ul>
+              <p class="copyright">
+                &copy;  - HERBOLARIA DEL SURESTE "Departamento de tecnologías de información"
+              </p>
+            </div> <!-- End col-sm-8 -->
+          </div> <!-- End row -->
+        </div> <!-- End container -->
+      </div> <!-- End footer-section  -->
+    </footer>
+    <!-- End footer -->
+
+  </div> <!-- End wrapper -->
+
+  <!-- Back-to-top
+  ================================================== -->
+  <div class="back-to-top">
+    <i class="fa fa-angle-up fa-3x"></i>
+  </div> <!-- end back-to-top -->
+
+  <!-- JS libraries and scripts -->
+  <script src="assets/js/jquery-1.11.3.min.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/bootstrap-hover-dropdown.min.js"></script>
+  <script src="assets/js/jquery.appear.min.js"></script>
+  <script src="assets/js/jquery.bxslider.min.js"></script>
+  <script src="assets/js/jquery.owl.carousel.min.js"></script>
+  <script src="assets/js/jquery.countTo.js"></script>
+  <script src="assets/js/jquery.easing.1.3.js"></script>
+  <script src="assets/js/jquery.imagesloaded.min.js"></script>
+  <script src="assets/js/jquery.isotope.js"></script>
+  <script src="assets/js/jquery.placeholder.js"></script>
+  <script src="assets/js/jquery.smoothscroll.js"></script>
+  <script src="assets/js/jquery.stellar.min.js"></script>
+  <script src="assets/js/jquery.waypoints.js"></script>
+  <script src="assets/js/jquery.fitvids.js"></script>
+  <script src="assets/js/jquery.magnific-popup.min.js"></script>
+  <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+  <script src="assets/js/jquery.countdown.js"></script>
+  <script src="assets/js/jquery.navbar-scroll.js"></script>
+  <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+  <script src="assets/js/jquery.gmaps.js"></script>
+  <script src="assets/js/main.js"></script>
+	
+</body>
+</html>
