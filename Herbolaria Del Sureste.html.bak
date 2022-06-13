@@ -82,10 +82,6 @@
 	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
 	<link rel="stylesheet" type="text/css" href="engine4/style.css" />
 	<!--script type="text/javascript" src="engine4/jquery.js"></script-->
-	<!-- End WOWSlider.com HEAD section -->
-	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-	<link rel="stylesheet" type="text/css" href="engine5/style.css" />
-	<!--script type="text/javascript" src="engine5/jquery.js"></script-->
 	<!-- End WOWSlider.com HEAD section --></head>
 <body>
 
@@ -208,7 +204,7 @@
 
             <div class="col-sm-4">
               <div class="offer-post text-center animated out" data-animation="fadeInUp" data-delay="0">
-                <img src="100mexicana.jpg" alt=""/>
+                <img src="100%.png" alt="" width="196" height="200"/>
                 <div class="offer-icon"> </div>
                 <h4>100% Mexicana</h4>
                 
@@ -621,11 +617,69 @@
         </div> <!-- End container -->
       </div> <!-- End feature-section -->
     
-	
-	<!-- End WOWSlider.com BODY section -->
-	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container4">
+	<div class="ws_images"><ul>
+		<li><img src="data4/images/dpto.recursos.jpg" alt="" title="" id="wows4_0"/></li>
+		<li><img src="data4/images/dpto.finanzas.jpg" alt="" title="" id="wows4_1"/></li>
+		<li><img src="data4/images/dpto.merca.jpg" alt="" title="" id="wows4_2"/></li>
+		<li><img src="data4/images/dpto.prodccion.jpg" alt="" title="" id="wows4_3"/></li>
+		<li><img src="data4/images/dpto.tec.jpg" alt="" title="" id="wows4_4"/></li>
+		<li><img src="data4/images/maestros_produccion.jpg" alt="" title="" id="wows4_5"/></li>
+		<li><img src="data4/images/maestra_ana.jpg" alt="" title="" id="wows4_6"/></li>
+		<li><a href="http://wowslider.net"><img src="data4/images/maestros_merca.jpg" alt="javascript slideshow" title="" id="wows4_7"/></a></li>
+		<li><img src="data4/images/maestros_finanzas.jpg" alt="" title="" id="wows4_8"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title=""><span><img src="data4/tooltips/dpto.recursos.jpg" alt=""/>1</span></a>
+		<a href="#" title=""><span><img src="data4/tooltips/dpto.finanzas.jpg" alt=""/>2</span></a>
+		<a href="#" title=""><span><img src="data4/tooltips/dpto.merca.jpg" alt=""/>3</span></a>
+		<a href="#" title=""><span><img src="data4/tooltips/dpto.prodccion.jpg" alt=""/>4</span></a>
+		<a href="#" title=""><span><img src="data4/tooltips/dpto.tec.jpg" alt=""/>5</span></a>
+		<a href="#" title=""><span><img src="data4/tooltips/maestros_produccion.jpg" alt=""/>6</span></a>
+		<a href="#" title=""><span><img src="data4/tooltips/maestra_ana.jpg" alt=""/>7</span></a>
+		<a href="#" title=""><span><img src="data4/tooltips/maestros_merca.jpg" alt=""/>8</span></a>
+		<a href="#" title=""><span><img src="data4/tooltips/maestros_finanzas.jpg" alt=""/>9</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">html slider</a> by WOWSlider.com v9.0</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine4/wowslider.js"></script>
+	<script type="text/javascript" src="engine4/script.js"></script>
+	<!-- End WOWSlider.com BODY section --></section>
+    <!-- End Creative section-1 -->
 
-    
+    <section>
+      <div class="sep-section"></div>
+    </section>
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container3">
+	<div class="ws_images"><ul>
+		<li><img src="data3/images/dpto.recursos.jpg" alt="" title="" id="wows3_0"/></li>
+		<li><img src="data3/images/dpto.finanzas.jpg" alt="" title="" id="wows3_1"/></li>
+		<li><img src="data3/images/dpto.merca.jpg" alt="" title="" id="wows3_2"/></li>
+		<li><img src="data3/images/dpto.prodccion.jpg" alt="" title="" id="wows3_3"/></li>
+		<li><img src="data3/images/dpto.tec.jpg" alt="" title="" id="wows3_4"/></li>
+		<li><img src="data3/images/maestros_produccion.jpg" alt="" title="" id="wows3_5"/></li>
+		<li><img src="data3/images/maestra_ana.jpg" alt="" title="" id="wows3_6"/></li>
+		<li><a href="http://wowslider.net"><img src="data3/images/maestros_merca.jpg" alt="carousel jquery" title="" id="wows3_7"/></a></li>
+		<li><img src="data3/images/maestros_finanzas.jpg" alt="" title="" id="wows3_8"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title=""><span><img src="data3/tooltips/dpto.recursos.jpg" alt=""/>1</span></a>
+		<a href="#" title=""><span><img src="data3/tooltips/dpto.finanzas.jpg" alt=""/>2</span></a>
+		<a href="#" title=""><span><img src="data3/tooltips/dpto.merca.jpg" alt=""/>3</span></a>
+		<a href="#" title=""><span><img src="data3/tooltips/dpto.prodccion.jpg" alt=""/>4</span></a>
+		<a href="#" title=""><span><img src="data3/tooltips/dpto.tec.jpg" alt=""/>5</span></a>
+		<a href="#" title=""><span><img src="data3/tooltips/maestros_produccion.jpg" alt=""/>6</span></a>
+		<a href="#" title=""><span><img src="data3/tooltips/maestra_ana.jpg" alt=""/>7</span></a>
+		<a href="#" title=""><span><img src="data3/tooltips/maestros_merca.jpg" alt=""/>8</span></a>
+		<a href="#" title=""><span><img src="data3/tooltips/maestros_finanzas.jpg" alt=""/>9</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">html slider</a> by WOWSlider.com v9.0</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine3/wowslider.js"></script>
+	<script type="text/javascript" src="engine3/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
 
     <!-- Screenshots
     ================================================== -->
@@ -641,37 +695,85 @@
                 </div>
             </div> <!-- End row -->
           </div> <!-- end title-section -->
-<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-	<div id="wowslider-container5">
-	<div class="ws_images"><ul>
-		<li><img src="data5/images/dpto.recursos.jpg" alt="" title="" id="wows5_0"/></li>
-		<li><img src="data5/images/dpto.finanzas.jpg" alt="" title="" id="wows5_1"/></li>
-		<li><img src="data5/images/dpto.merca.jpg" alt="" title="" id="wows5_2"/></li>
-		<li><img src="data5/images/dpto.prodccion.jpg" alt="" title="" id="wows5_3"/></li>
-		<li><img src="data5/images/dpto.tec.jpg" alt="" title="" id="wows5_4"/></li>
-		<li><img src="data5/images/maestros_produccion.jpg" alt="" title="" id="wows5_5"/></li>
-		<li><img src="data5/images/maestra_ana.jpg" alt="" title="" id="wows5_6"/></li>
-		<li><a href="http://wowslider.net"><img src="data5/images/maestros_merca.jpg" alt="responsive slider" title="" id="wows5_7"/></a></li>
-		<li><img src="data5/images/maestros_finanzas.jpg" alt="" title="" id="wows5_8"/></li>
-	</ul></div>
-	<div class="ws_bullets"><div>
-		<a href="#" title=""><span><img src="data5/tooltips/dpto.recursos.jpg" alt=""/>1</span></a>
-		<a href="#" title=""><span><img src="data5/tooltips/dpto.finanzas.jpg" alt=""/>2</span></a>
-		<a href="#" title=""><span><img src="data5/tooltips/dpto.merca.jpg" alt=""/>3</span></a>
-		<a href="#" title=""><span><img src="data5/tooltips/dpto.prodccion.jpg" alt=""/>4</span></a>
-		<a href="#" title=""><span><img src="data5/tooltips/dpto.tec.jpg" alt=""/>5</span></a>
-		<a href="#" title=""><span><img src="data5/tooltips/maestros_produccion.jpg" alt=""/>6</span></a>
-		<a href="#" title=""><span><img src="data5/tooltips/maestra_ana.jpg" alt=""/>7</span></a>
-		<a href="#" title=""><span><img src="data5/tooltips/maestros_merca.jpg" alt=""/>8</span></a>
-		<a href="#" title=""><span><img src="data5/tooltips/maestros_finanzas.jpg" alt=""/>9</span></a>
-	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">slider html</a> by WOWSlider.com v9.0</div>
-	<div class="ws_shadow"></div>
-	</div>	
-	<script type="text/javascript" src="engine5/wowslider.js"></script>
-	<script type="text/javascript" src="engine5/script.js"></script>
-	<!-- End WOWSlider.com BODY section --></section>
-    <!-- End Creative section-1 -->
-            
+
+            <div class="row">
+              <div class="col-md-12">
+                <div class="screenshots-carousel animated out" data-animation="fadeInUp" data-delay="0">
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="dpto.recursos.jpeg" alt=""/><img src= alt="screenshot"></a>
+                    </div> <!-- end screen -->
+                  </div> <!-- end shot -->
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="dpto.finanzas.jpeg" alt=""/><img src= alt="screenshot"></a>
+                    </div> 
+                    <!-- end screen -->
+                  </div> <!-- end shot -->
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="dpto.merca.jpeg" alt=""/><img src= alt="screenshot"></a>
+                    </div> <!-- end screen -->
+                  </div> <!-- end shot -->
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="dpto.prodccion.jpeg" alt=""/><img src= alt="screenshot"></a>
+                    </div> <!-- end screen -->
+                  </div> <!-- end shot -->
+
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="dpto.tec.jpeg" alt=""/><img src= alt="screenshot"/></a>
+                    </div> <!-- end screen -->
+                  </div> <!-- end shot -->
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="maestros produccion.jpeg" alt=""/><img src= alt="screenshot"/></a>
+                    </div> <!-- end screen -->
+                  </div> <!-- end shot -->
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="maestra ana.jpeg" alt=""/><img src= alt="screenshot"></a>
+                    </div> <!-- end screen -->
+                  </div> <!-- end shot -->
+
+                  <div class="shot">
+                    <div class="screen">
+                      <a class="zoom" href=""><img src="maestros merca.jpeg" alt=""/><img src= alt="screenshot"/></a>
+                    </div> <!-- end screen -->
+                  </div> <!-- end shot -->
+
+					<div class="shot">
+					<div class="screen">
+						<a class="zoom" href=""><img src="maestros finanzas.jpeg" alt=""/><img src=alt="screenshot"></img></a>
+						</div>
+				  </div>
+				  
+				  <div class="shot">
+					  <div class="screen">
+					  <a class="zoom" href=""><img src="carlos.jpeg" alt=""/><img src=alt="screenshot">
+						  </a>
+					  </div>
+					  
+					  <div class="shot">
+					  <div class="screen">
+						  <a class="zoom" href=""><img src="rene.jpeg" alt=""/><img src=alt="screenshot">
+						  </a>
+						  </div>
+					  </div>
+					  
+					  <div class="shot">
+					  <div class="screen">
+						  <a class="zoom" href=""><img src="maria.jpeg" alt=""/><img src=alt="screenshot">
+						  </a>
+						  </div>
 					  </div>
                 </div> <!-- end screenshots-carousel -->
               </div> <!-- end col-md-12 -->
